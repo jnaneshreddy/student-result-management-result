@@ -15,7 +15,7 @@
 <strong>UserId/Password:admin/Test@123</strong>
 <hr>
 <br>
-<strong>anyone want to use you can its open source 😁</strong>
+
 <h4>Documnts in repo</h4>
 
 
